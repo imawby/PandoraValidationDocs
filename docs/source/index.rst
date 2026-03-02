@@ -40,6 +40,7 @@ True   True   True
 .. toctree::
 
    usage
+   EventTree
 
 .. note::
 
