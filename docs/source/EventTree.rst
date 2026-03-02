@@ -3,6 +3,8 @@ EventTree
 
 .. _eventtree:
 
+Source code can be found here: https://github.com/imawby/LArContent/blob/feature/Metrics/larpandoracontent/LArMetrics/EventValidationTool.cc
+Plotting script can be found here: https://github.com/imawby/PandoraMetrics/blob/main/EventValidation.ipynb
 
 Branches had several pre-fixes:
 

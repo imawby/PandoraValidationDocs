@@ -3,6 +3,8 @@ HierarchyTree
 
 .. _hierarchytree:
 
+Source code can be found here: https://github.com/imawby/LArContent/blob/feature/Metrics/larpandoracontent/LArMetrics/HierarchyValidationTool.cc
+Plotting script can be found here: https://github.com/imawby/PandoraMetrics/blob/main/HierarchyValidation.ipynb
 
 Branches had several pre-fixes:
 

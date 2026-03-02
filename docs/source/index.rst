@@ -17,6 +17,8 @@ Welcome to PandoraMetrics documentation!
    EventTree
    HierarchyTree
    PFPTree
+   TrackTree
+   ShowerTree   
 .. note::
 
    This project is under active development.
