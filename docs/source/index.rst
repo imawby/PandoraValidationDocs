@@ -6,11 +6,6 @@
 
 Welcome to PandoraMetrics documentation!
 ========================================
-
-Here you'll find description of the validation trees
-
-Check out the :doc:`usage` section for further information, including how to
-:ref:`install <installation>` the project.
      
    Contents
 ------
@@ -20,7 +15,7 @@ Check out the :doc:`usage` section for further information, including how to
 
    usage
    EventTree
-
+   HierarchyTree
 .. note::
 
    This project is under active development.
