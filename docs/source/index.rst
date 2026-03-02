@@ -16,7 +16,7 @@ Welcome to PandoraMetrics documentation!
    usage
    EventTree
    HierarchyTree
+   PFPTree
 .. note::
 
    This project is under active development.
-
