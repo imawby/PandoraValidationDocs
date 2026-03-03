@@ -27,4 +27,5 @@ These files were made with dunesw=v10_13_00d00 with the following branches:
    PFPTree
    TrackTree
    ShowerTree
+   CCNuSelectionFiles
 .. note::
