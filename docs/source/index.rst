@@ -6,19 +6,25 @@
 
 Welcome to PandoraMetrics documentation!
 ========================================
-     
+
+These files were made with dunesw=v10_13_00d00 with the following branches:
+
+- larpandora: https://github.com/imawby/larpandora/tree/feature/Metrics
+- larpandoracontent: https://github.com/imawby/LArContent/tree/feature/Metrics
+- dunereco: https://github.com/imawby/dunereco/tree/feature/cleanSelection
+
+
    Contents
 ------
 
 .. toctree::
    :maxdepth: 1
 
-   usage
+   WarwickWorkshop
+   WarwickWorkshopPlotting   
    EventTree
    HierarchyTree
    PFPTree
    TrackTree
-   ShowerTree   
+   ShowerTree
 .. note::
-
-   This project is under active development.
